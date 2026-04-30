@@ -2,19 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://musclelove-777.github.io/kuruma-compass/</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/kuruma-compass//articles/trade-in-vs-buyback-which-is-better.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//articles/car-appraisal-documents-checklist.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//articles/car-bulk-appraisal-demerits-caution.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//articles/car-appraisal-preparation-guide.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//articles/car-buying-price-negotiation-multiple-dealer-comparison.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//articles/dealer-vs-buyer-comparison.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//articles/dealer-trade-in-vs-buyback-comparison.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//articles/2026-04-29-residual-credit-vs-car-leasing-2026.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//articles/2026-04-29-kei-car-maintenance-cost-guide-2.html</loc>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/kuruma-compass//category/%E4%B8%8B%E5%8F%96%E3%82%8A-vs-%E8%B2%B7%E5%8F%96.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//category/%E6%9F%BB%E5%AE%9A%E3%81%AE%E6%B5%81%E3%82%8C%E3%81%A8%E6%BA%96%E5%82%99.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//category/%E4%B8%AD%E5%8F%A4%E8%BB%8A%E8%B2%B7%E5%8F%96%E6%A5%AD%E8%80%85%E6%AF%94%E8%BC%83.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//category/%E6%9F%BB%E5%AE%9A%E9%A1%8D%E3%82%A2%E3%83%83%E3%83%97%E8%A1%93.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//category/%E9%AB%98%E9%A1%8D%E5%A3%B2%E5%8D%B4%E3%81%AE%E4%BA%A4%E6%B8%89%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//category/%E6%9C%AA%E5%88%86%E9%A1%9E.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/kuruma-compass//category/%E3%82%AF%E3%83%AB%E3%83%9E%E8%B3%BC%E5%85%A5%E3%83%BB%E3%83%AA%E3%83%BC%E3%82%B9.html</loc>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
